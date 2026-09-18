@@ -1,0 +1,3 @@
+# Cloudflare Pages Redirects / Proxy
+# Commented out to let Cloudflare Pages Functions handle the /api route locally
+# /api/* https://your-backend-api-url.com/api/:splat 307
